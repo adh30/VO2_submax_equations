@@ -61,7 +61,7 @@ Note: The $\frac{HR}{2}\$ is because the original Milligan equation as used here
 ```math
 VO_{2,\text{sharkey}} = \left(\frac{1}{2} \times 3.744 \times \frac{(\text{weight} + 5)}{(\text{maxpulse} - 62)}\right) \times \frac{1000}{\text{weight}}
 ```
-The inclusion of $1/2$ accounts for the 30s recordings used. 
+The inclusion of $\frac{1}{2}\$ accounts for the 30s recordings used. 
 
 ---
 
