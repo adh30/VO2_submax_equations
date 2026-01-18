@@ -76,3 +76,4 @@ VO_{2,\text{vandobeln}} = \left(1.29 \times \sqrt{\frac{\text{load}_{kgm/min}}{(
 ```math
 VO_{2,\text{vandobeln}} = \left(1.18 \times \sqrt{\frac{\text{load}_{kgm/min}}{(\text{maxpulse} - 60)}} \times e^{-0.0090 \times \text{age}}\right) \times \frac{1000}{\text{weight}}
 ```
+Van Dobeln didn't provide an equation for women so this was estimated using a fitted model of the same form to data from Astrand I. Aerobic work capacity in men and women with special reference to age. Acta Physiol Scand Suppl 1960; 49(169): 1-92.
