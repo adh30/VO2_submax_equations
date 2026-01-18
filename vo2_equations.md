@@ -18,7 +18,7 @@ where step is the step height ((8-inch/20cm for Tecumseh step test), freq = step
 ```math
 cf(\text{age}) = 0.566 + \frac{12.825}{\text{age}}
 ```
-This is based on a fractional polynomial (FP) fit to the Astrand Ryhming correction factors. The model is a single FP which was more efficient than a two-FP model. 
+This is based on a fractional polynomial (FP) fit to the Astrand Ryhming correction factors. The model is a single FP which was more efficient than a two-FP model and provided a better fit than an exponential model (judged on $r^2$).  
 
 ### Maximum heart rate
 
